@@ -8,7 +8,10 @@ body{
 img{
 
 }
+h1{
+  font-size:13px
+}
 h2{
   color: #907AD6;
-  font-size:5px
+  font-size:10px;
 }
