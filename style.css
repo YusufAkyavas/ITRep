@@ -1,6 +1,6 @@
 html{
   background-color: #12282B;
-  border-top: 10px;
+  border:30px;
 }
 body{
   color: powderblue;
@@ -9,7 +9,8 @@ img{
 
 }
 h1{
-  font-size:13px
+  color: #907AD6;
+  font-size:13px;
 }
 h2{
   color: #907AD6;
