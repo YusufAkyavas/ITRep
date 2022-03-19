@@ -18,6 +18,10 @@ h2{
 }
 div{
   width: 300px;
-  padding: 20px;
   float: right;
+}
+section{
+  border-bottom:solid,16px,#334195;
+  padding:30px;
+  margin:15px,100px;
 }
