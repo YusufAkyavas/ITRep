@@ -35,7 +35,8 @@ section{
   border-style: solid;
   border-radius: 8px;
   border-spacing: 10px;
-  max-width:40%;
+  max-width:48%;
+  padding:2px;
 
 
 }
