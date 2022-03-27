@@ -36,7 +36,7 @@ section{
   border-radius: 8px;
   border-spacing: 10px;
   max-width:40%;
-  float:right
+
 
 }
 container{
@@ -47,7 +47,7 @@ container{
 p{
   color: #5fb49c;
   font-family:"calibri(bold)",sans-serif;
-  max-width: 600px;
+  max-width: 620px;
 }
 ul{
   color: #5fb49c;
