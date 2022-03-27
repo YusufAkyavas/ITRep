@@ -2,12 +2,11 @@ html{
   background-color: #011936;
 }
 body{
-  color: #5fb49c;
 }
 img{
-  border-color: black;
-  border-radius:5px;
-  border-width: 5px;
+  border-style:none;
+  border-spacing:20px,auto;
+
 }
 h1{
   color: #907AD6;
@@ -16,7 +15,8 @@ h1{
   font-style:oblique;
 }
 h2{
-  border-top:8px, #39bfd0;
+  color: #39bfd0;
+  border-top:8px;
   border-top-style: outset;
   color: teal;
   font-size: 30px;
@@ -26,26 +26,34 @@ h2{
 }
 div{
   padding:50px;
-  margin-:100px,auto;
-  margin-right:30px,auto;
 }
 section{
-  padding:30px;
+  border-color: #c2c2c2;
+  border-style: solid;
+  border-radius: 8px;
+  border-spacing: 10px;
+  max-width:40%;
 
 }
 container {
   width:90%;
   max-width:800px;
-  margin:rgb(255, 0, 0);px,auto;
 }
 p{
-  font-family:"Arial";
+  color: #5fb49c;
+  font-family:"calibri(bold)",sans-serif;
+  max-width: 500px;
 
 }
 ul{
-  border-color: #c2c2c2;
-  border-style: solid;
-  border-radius: 8px;
-  border-spacing: 10px;
-  margin-right:75%;
+  color: #5fb49c;
+  font-family:"calibri(bold)",sans-serif;
+
+}
+
+h3{
+  color: powderblue;
+}
+h4{
+  color:Orange;
 }
